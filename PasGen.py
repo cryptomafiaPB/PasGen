@@ -20,3 +20,4 @@ def pas_gen():
     gen_pas = "".join(password)
     return gen_pas
 print(pas_gen())
+input()
